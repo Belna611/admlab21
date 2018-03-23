@@ -2,5 +2,5 @@ echo "enter source and target filenames"
 read source target
 if cp $source $target
 then
-echo "file copied successfully"
+echo "file copied gh successfully"
 fi
